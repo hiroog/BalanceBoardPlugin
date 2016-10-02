@@ -1,0 +1,43 @@
+syntax: glob
+#-----------------
+# Windows
+#-----------------
+*.pdb
+#*.obj
+#*.lib
+*.exe
+*.sdf
+windows/x64
+windows/x86
+.suo
+*.opensdf
+*.opendb
+*.VC.db
+*.vcxproj.user
+#-----------------
+# Linux
+#-----------------
+#*.o
+#*.a
+#-----------------
+# OSX/IOS
+#-----------------
+.DS_Store
+xcuserdata
+#-----------------
+# Android
+#-----------------
+#-----------------
+# Common
+#-----------------
+obj
+lib
+*.zip
+*.swp
+*.swo
+.git
+#-----------------
+# UE4
+#-----------------
+Intermediate
+Binaries
