@@ -13,6 +13,7 @@ windows/x86
 *.opendb
 *.VC.db
 *.vcxproj.user
+Makefile.mak
 #-----------------
 # Linux
 #-----------------
